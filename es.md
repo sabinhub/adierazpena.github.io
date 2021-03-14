@@ -1,4 +1,4 @@
-Euskera | [Castellano](es.md)
+[Euskera](/) | **Castellano**
 
 <h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">MANIFIESTO POR LA COHESIÓN SOCIAL Y LA PARTICIPACIÓN DEMOCRÁTICA EN LA EDUCACIÓN VASCA</span> </h1>
 
@@ -10,7 +10,7 @@ Euskera | [Castellano](es.md)
 
 ## Resumen
 
-Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin
+Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de …
 
 
 ## Manifiesto 
@@ -39,7 +39,7 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin
 
 <hr>
 
-Este manifiesto está disponible en [adierazpena.github.io/es.html](https://adierazpena.github.io/es.html).
+Este manifiesto está disponible en [adierazpena.github.io/es.md](https://adierazpena.github.io/es).
 
 ## Firmas / Sinadurak
 
