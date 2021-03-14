@@ -1,22 +1,22 @@
-<h1 id="todavía-es-posible" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">MANIFIESTO POR LA COHESIÓN SOCIAL Y LA PARTICIPACIÓN DEMOCRÁTICA EN LA EDUCACIÓN VASCA</span> <br><span style="padding-bottom: 0.3em;font-size: 0.9em;border-bottom:0px;margin-top:6px;color:black;">GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN</span></h1>
+[Euskera](/) | Castellano
+
+<h1 id="adierazpena" style="margin-bottom: 10px;padding-bottom: 0;text-decoration: none !important;"><span style="color:#008080;">GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN</span></h1>
+
+* [Laburpena](#laburpena)
+* [Adierazpena](#adierazpena)
+* [Sinadurak](#sinadurak)
+* [Adierazpena sinatu](#adierazpena-sinatu)
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Adierazpena sinatu inprimaki honetan</a>
+
+## Laburpena
+
+Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin...
 
 
-* [Resumen / Laburpena](#resumen)
-* [Manifiesto / Adierazpena](#manifiesto)
-* [Firmas / Sinadurak](#firmas)
-* [Firma el manifiesto / Adierazpena sinatu](#firma-el-manifiesto)
-
-## Resumen / Laburpena
-
-Manifiesto promovido por la asociación Zubiak Eraikiz Elkartea con el apoyo de …... 
-
-Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin
-
-
-## Manifiesto / Adierazpena
+## Adierazpena
 
 ### GIZARTE KOHESIOAREN ETA PARTE HARTZE DEMOKRATIKOAREN ALDEKO ADIERAZPENA EUSKAL HEZKUNTZAN
-
 
 1. **Zehaztapen batzuk**. Adierazpen honek ekarpen eraikitzaile bat izan nahi du, baina ez du neutroa izan nahi, ez du zurikeriatan erori nahi. Pertsona partikular askotarikoen atxikimendua bilatu nahi du, lerro hauetan adierazi nahi den ikusmolde partekatuarekin identifikatuta sentitzen badira. Manifestu honek ez du akordio aurreratu eta zehatz bat izan nahi, hori lortzeko lurra prestatzen lagunduko duen oinarri bat baizik. Ez du nahi, ezta ere, xehetasun handikoa izan gai garrantzitsu guztiak aztertuta, baizik zentratu nahi du muinezko auzietan eta aurrerapen posiblean. Beste zehaztapen bat ere bai: euskal hezkuntzaren kontzeptuak Euskal Herriko beste administrazio-errealitate batzuei eragiten badie ere, manifestu honen garapena Euskadira edo Euskal Autonomia Erkidegora mugatzen da, eta esparru horretara jo nahi du berariaz, inor baztertu gabe, noski, helburu  jakin batzuk izateagatik.
  
@@ -68,18 +68,30 @@ Zubiak Eraikiz Elkarteak sustatutako adierazpena hurrengo pertsonen babesarekin
 Este manifiesto está disponible en [adierazpena.github.io](https://adierazpena.github.io/).
 
 
-## Firmas / Sinadurak
+## Sinadurak
 
-Por completar
+-
 
-## Firma el manifiesto / Adierazpena sinatu
+## Adierazpena sinatu
 
-[Firma el manifiesto en este formulario](). 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfwq5N2NxDttnR74odIyTSBpgzcE-AFLVuR_epoPB0HxQyFlQ/viewform" class="pressbutton">Adierazpena sinatu inprimaki honetan</a>
 
 <meta property="og:title" content="adierazpena">
 <style>
 h1:nth-child(1) {
   visibility: hidden;
   line-height: 0;
+}
+.pressbutton {
+    background-color: #008080;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 20px;
 }
 </style>
